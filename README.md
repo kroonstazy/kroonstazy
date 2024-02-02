@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### GitHub Stats
+
+  <img align="left" alt="lang92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kroonstazy2&show_icons=true&hide_border=true" />
+  <img align="left" alt="lang92's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroonstazy&layout=compact" />
+
 <!--
 **kroonstazy/kroonstazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
